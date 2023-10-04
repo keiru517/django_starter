@@ -17,7 +17,6 @@ Django stater for big projects
 - pip install tiktoken
 - pip install configparser
 
-### Import module
 ## Author
 Adrian botteon : adrianbotteon@gmail.com
 
