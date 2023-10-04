@@ -11,11 +11,11 @@ Django stater for big projects
 ## How to use this?
 
 ### Install dependencies
-pip install langchain 
-pip install chromadb
-pip install openai
-pip install tiktoken
-pip install configparser
+- pip install langchain 
+- pip install chromadb
+- pip install openai
+- pip install tiktoken
+- pip install configparser
 
 ### Import module
 ## Author
